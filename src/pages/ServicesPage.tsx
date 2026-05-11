@@ -58,7 +58,7 @@ export const ServicesPage: React.FC<{ lang: LanguageState }> = ({ lang }) => {
                   </li>
                 </ul>
                 <a 
-                  href={`https://wa.me/910000000000?text=I'm interested in ${service.name}`}
+                  href={`https://wa.me/91 8885495915?text=I'm interested in ${service.name}`}
                   className="w-full py-4 bg-green-500 hover:bg-green-600 text-white font-black rounded-2xl transition-all flex items-center justify-center space-x-2 shadow-lg shadow-green-100"
                 >
                   <MessageCircle className="w-5 h-5" />
