@@ -1,0 +1,8 @@
+{
+  "name": "Imran Online Services & Kirana Store",
+  "description": "Premium business website for Imran Online Services & Kirana Store in Andhra Pradesh, India. Offering digital government services, ticket bookings, and daily grocery needs.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
